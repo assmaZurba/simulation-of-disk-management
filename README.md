@@ -1,8 +1,8 @@
-# simulation-of-disk-mangment
+# simulation-of-disk-managment
 written by Assma zurba
 
 in general:
-A disk manging simulation.
+A disk managing simulation.
 
 the program contains a 3 class that called FsFile, FileDescriptor, fsDisk
 
